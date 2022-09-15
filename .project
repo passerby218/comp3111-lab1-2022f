@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>commit_lab1.png</name>
+			<type>1</type>
+			<location>C:/Users/user/Pictures/Screenshots/commit_lab1.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
